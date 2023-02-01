@@ -1,0 +1,15 @@
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/bin/Debug/net7.0/Projets_Csharp_test
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/bin/Debug/net7.0/Projets_Csharp_test.deps.json
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/bin/Debug/net7.0/Projets_Csharp_test.runtimeconfig.json
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/bin/Debug/net7.0/Projets_Csharp_test.dll
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/bin/Debug/net7.0/Projets_Csharp_test.pdb
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.csproj.AssemblyReference.cache
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.AssemblyInfoInputs.cache
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.AssemblyInfo.cs
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.csproj.CoreCompileInputs.cache
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.dll
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/refint/Projets_Csharp_test.dll
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.pdb
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/Projets_Csharp_test.genruntimeconfig.cache
+/Users/oumaro/Desktop/Projets_Csharp_test/Projets_Csharp_test/obj/Debug/net7.0/ref/Projets_Csharp_test.dll
